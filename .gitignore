@@ -1,0 +1,10 @@
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+BuildSystem/
+.vs/
+.idea/
+.vscode/
+UserSettings/
